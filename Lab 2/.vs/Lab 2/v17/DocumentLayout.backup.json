@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\api\\messengerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\api\\messengerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\models\\messageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\models\\messageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\models\\messageaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\models\\messageaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|c:\\users\\user\\source\\repos\\lab 2\\lab 2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A58D2B-2F6D-4B25-9047-4BF202582DF7}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Program.cs",
+              "RelativeToolTip": "Lab 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:35:27.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessengerEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Api\\MessengerEndpoints.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Api\\MessengerEndpoints.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Api\\MessengerEndpoints.cs",
+              "RelativeToolTip": "Lab 2\\Api\\MessengerEndpoints.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:35:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lab 2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:34:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\MessageUpdate.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Models\\MessageUpdate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\MessageUpdate.cs",
+              "RelativeToolTip": "Lab 2\\Models\\MessageUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:33:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageAudit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\MessageAudit.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Models\\MessageAudit.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\MessageAudit.cs",
+              "RelativeToolTip": "Lab 2\\Models\\MessageAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:33:37.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\Message.cs",
+              "RelativeToolTip": "Lab 2\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:33:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab 2\\Lab 2\\Models\\User.cs",
+              "RelativeToolTip": "Lab 2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:32:45.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
